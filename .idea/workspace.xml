@@ -2,187 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce10e018-90b7-490a-a8e4-59a568b36857" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" afterPath="$PROJECT_DIR$/app/Http/Controllers/HomeController.php" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/css/auth.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/css/auth.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/AdminLTE.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/AdminLTE.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/AdminLTE.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/AdminLTE.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-black-light.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-black-light.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-black-light.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-black-light.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-black.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-black.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-black.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-black.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-blue-light.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-blue-light.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-blue-light.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-blue-light.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-blue.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-blue.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-blue.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-blue.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-green-light.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-green-light.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-green-light.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-green-light.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-green.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-green.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-green.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-green.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-purple-light.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-purple-light.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-purple-light.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-purple-light.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-purple.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-purple.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-purple.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-purple.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-red-light.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-red-light.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-red-light.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-red-light.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-red.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-red.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-red.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-red.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-yellow-light.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-yellow-light.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-yellow-light.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-yellow-light.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-yellow.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-yellow.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-yellow.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/css/skins/skin-yellow.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/js/adminlte.js" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/js/adminlte.js" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/dist/js/adminlte.min.js" afterPath="$PROJECT_DIR$/public/vendor/adminlte/dist/js/adminlte.min.js" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/icheck.js" afterPath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/icheck.js" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/icheck.min.js" afterPath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/icheck.min.js" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/square/blue.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/square/blue.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/square/blue.png" afterPath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/square/blue.png" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/square/blue@2x.png" afterPath="$PROJECT_DIR$/public/vendor/adminlte/plugins/iCheck/square/blue@2x.png" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/css/ionicons.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/css/ionicons.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/css/ionicons.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/css/ionicons.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/fonts/ionicons.eot" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/fonts/ionicons.eot" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/fonts/ionicons.svg" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/fonts/ionicons.svg" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/fonts/ionicons.ttf" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/fonts/ionicons.ttf" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/fonts/ionicons.woff" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/Ionicons/fonts/ionicons.woff" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/css/bootstrap.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/css/bootstrap.css.map" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/css/bootstrap.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/js/bootstrap.js" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/bootstrap/dist/js/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/css/font-awesome.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/css/font-awesome.css.map" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/css/font-awesome.css.map" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/css/font-awesome.min.css" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/FontAwesome.otf" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/jquery/dist/jquery.js" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/jquery/dist/jquery.js" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/jquery/dist/jquery.min.js" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/jquery/dist/jquery.min.js" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/jquery/dist/jquery.min.map" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/jquery/dist/jquery.min.map" />
-      <change beforePath="$PROJECT_DIR$/public/vendor/adminlte/vendor/jquery/dist/jquery.slimscroll.min.js" afterPath="$PROJECT_DIR$/public/vendor/adminlte/vendor/jquery/dist/jquery.slimscroll.min.js" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/login.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/login.blade.php" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/email.blade.php" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/passwords/reset.blade.php" />
-      <change beforePath="$PROJECT_DIR$/resources/views/auth/register.blade.php" afterPath="$PROJECT_DIR$/resources/views/auth/register.blade.php" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" />
-      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/.editorconfig" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/.editorconfig" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/.styleci.yml" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/.styleci.yml" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/LICENSE" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/LICENSE" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/README.md" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/README.md" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/composer.json" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/composer.json" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/config/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/config/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/phpunit.xml" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/phpunit.xml" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/css/auth.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/css/auth.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/AdminLTE.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/AdminLTE.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/AdminLTE.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/AdminLTE.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-black-light.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-black-light.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-black-light.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-black-light.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-black.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-black.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-black.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-black.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-blue-light.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-blue-light.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-blue-light.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-blue-light.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-blue.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-blue.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-blue.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-blue.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-green-light.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-green-light.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-green-light.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-green-light.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-green.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-green.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-green.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-green.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-purple-light.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-purple-light.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-purple-light.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-purple-light.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-purple.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-purple.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-purple.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-purple.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-red-light.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-red-light.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-red-light.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-red-light.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-red.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-red.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-red.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-red.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-yellow-light.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-yellow-light.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-yellow-light.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-yellow-light.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-yellow.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-yellow.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-yellow.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/css/skins/skin-yellow.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/js/adminlte.js" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/js/adminlte.js" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/js/adminlte.min.js" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/dist/js/adminlte.min.js" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/icheck.js" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/icheck.js" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/icheck.min.js" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/icheck.min.js" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/square/blue.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/square/blue.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/square/blue.png" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/square/blue.png" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/square/blue@2x.png" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/plugins/iCheck/square/blue@2x.png" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/css/ionicons.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/css/ionicons.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/css/ionicons.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/css/ionicons.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/fonts/ionicons.eot" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/fonts/ionicons.eot" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/fonts/ionicons.svg" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/fonts/ionicons.svg" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/fonts/ionicons.ttf" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/fonts/ionicons.ttf" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/fonts/ionicons.woff" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/Ionicons/fonts/ionicons.woff" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/css/bootstrap.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/css/bootstrap.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/css/bootstrap.css.map" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/css/bootstrap.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/css/bootstrap.min.css.map" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/css/bootstrap.min.css.map" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.eot" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.svg" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.ttf" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/fonts/glyphicons-halflings-regular.woff2" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/js/bootstrap.js" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/js/bootstrap.js" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/bootstrap/dist/js/bootstrap.min.js" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/css/font-awesome.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/css/font-awesome.css.map" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/css/font-awesome.css.map" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/css/font-awesome.min.css" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/FontAwesome.otf" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.eot" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.svg" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.ttf" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/font-awesome/fonts/fontawesome-webfont.woff2" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/jquery/dist/jquery.js" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/jquery/dist/jquery.js" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/jquery/dist/jquery.min.js" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/jquery/dist/jquery.min.js" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/jquery/dist/jquery.min.map" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/jquery/dist/jquery.min.map" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/jquery/dist/jquery.slimscroll.min.js" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/assets/vendor/jquery/dist/jquery.slimscroll.min.js" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/ar/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/ar/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/de/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/de/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/en/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/en/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/es/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/es/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/fr/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/fr/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/hr/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/hr/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/it/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/it/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/nl/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/nl/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/pt-br/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/pt-br/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/ru/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/ru/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/uk/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/uk/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/zh-CN/adminlte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/lang/zh-CN/adminlte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/login.blade.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/login.blade.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/master.blade.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/master.blade.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/page.blade.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/page.blade.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/partials/menu-item-top-nav.blade.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/partials/menu-item-top-nav.blade.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/partials/menu-item.blade.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/partials/menu-item.blade.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/passwords/email.blade.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/passwords/email.blade.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/passwords/reset.blade.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/passwords/reset.blade.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/register.blade.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/resources/views/register.blade.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/AdminLte.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/AdminLte.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/AdminLteMakeCommand.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/AdminLteMakeCommand.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/MakeAdminLteCommand.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/MakeAdminLteCommand.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/auth/login.stub" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/auth/login.stub" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/auth/passwords/email.stub" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/auth/passwords/email.stub" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/auth/passwords/reset.stub" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/auth/passwords/reset.stub" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/auth/register.stub" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/auth/register.stub" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/home.stub" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Console/stubs/make/views/home.stub" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Events/BuildingMenu.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Events/BuildingMenu.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Http/ViewComposers/AdminLteComposer.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Http/ViewComposers/AdminLteComposer.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/ActiveChecker.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/ActiveChecker.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Builder.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Builder.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/ActiveFilter.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/ActiveFilter.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/ClassesFilter.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/ClassesFilter.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/FilterInterface.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/FilterInterface.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/GateFilter.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/GateFilter.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/HrefFilter.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/HrefFilter.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/SubmenuFilter.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/Menu/Filters/SubmenuFilter.php" />
-      <change beforePath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/ServiceProvider.php" afterPath="$PROJECT_DIR$/vendor/jeroennoten/laravel-adminlte/src/ServiceProvider.php" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -253,12 +74,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="2014_10_12_000000_create_users_table.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2014_10_12_000000_create_users_table.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="180">
+              <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.blade.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+              <folding>
+                <marker date="1539114904608" expanded="true" signature="9:25" ph="..." />
+                <marker date="1539114904608" expanded="true" signature="37:56" ph="..." />
+                <marker date="1539114904608" expanded="true" signature="68:84" ph="..." />
+                <marker date="1539114904608" expanded="true" signature="129:138" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -306,6 +142,7 @@
         <option value="$PROJECT_DIR$/config/app.php" />
         <option value="$APPLICATION_CONFIG_DIR$/consoles/db/8f342002-d8e3-47e5-9c56-2d68a837f8d9/console_2.sql" />
         <option value="$PROJECT_DIR$/.env" />
+        <option value="$PROJECT_DIR$/resources/views/home.blade.php" />
       </list>
     </option>
   </component>
@@ -497,22 +334,22 @@
       <option name="presentableId" value="Default" />
       <updated>1539103519796</updated>
       <workItem from="1539103523466" duration="2293000" />
-      <workItem from="1539106587253" duration="2677000" />
+      <workItem from="1539106587253" duration="2734000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4970000" />
+    <option name="totallyTimeSpent" value="5027000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="45" y="-4" width="1321" height="772" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23294118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23294118" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32941177" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -554,19 +391,6 @@
         <state relative-caret-position="126">
           <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1539110321500" expanded="true" signature="9:25" ph="..." />
-            <marker date="1539110321500" expanded="true" signature="37:56" ph="..." />
-            <marker date="1539110321500" expanded="true" signature="68:84" ph="..." />
-            <marker date="1539110321500" expanded="true" signature="125:134" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -620,9 +444,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state relative-caret-position="180">
+          <caret line="12" column="7" lean-forward="true" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="7" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/resources/views/home.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="21" lean-forward="false" selection-start-line="5" selection-start-column="21" selection-end-line="5" selection-end-column="21" />
+          <folding>
+            <marker date="1539114904608" expanded="true" signature="9:25" ph="..." />
+            <marker date="1539114904608" expanded="true" signature="37:56" ph="..." />
+            <marker date="1539114904608" expanded="true" signature="68:84" ph="..." />
+            <marker date="1539114904608" expanded="true" signature="129:138" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
